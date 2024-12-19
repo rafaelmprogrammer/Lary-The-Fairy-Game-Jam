@@ -20,6 +20,7 @@ Collect all 7 Mustaches to win the game
 CONTROLS:
 
 Character Movement - AD
+
 Jump - Space Bar
 
 
