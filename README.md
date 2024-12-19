@@ -30,6 +30,11 @@ Jump - Space Bar
 TEAM CREDITS:
 
 Pedro Medroa ( Game Designer )
+
 Margarida Dias ( Game Artist )
+
 Beatriz Monteiro ( Game Artist )
+
 Rafael Matos ( Game Programmer )
+
+Game: https://pmedroa.itch.io/lary-the-fairy
